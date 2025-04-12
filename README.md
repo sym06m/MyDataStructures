@@ -1,6 +1,6 @@
 # MyDataStructures
 
-This project implements custom data structures in Java, including physical structures (`MyArrayList`, `MyLinkedList`) and logical structures (`MyStack`, `MyQueue`, `MyMinHeap`). 
+This project implements custom data structures in Java, including physical structures (`MyArrayList`, `MyLinkedList`) and logical structures (`MyStack`, `MyQueue`, `MyMinHeap`).
 
 ## Features
 - Implements `MyList` interface for both `MyArrayList` and `MyLinkedList`.
